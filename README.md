@@ -4,4 +4,4 @@ Week 1 demo code for MTM6201 - Web dev ll
 - GitHub Repositories
 - Github Pages 
 - Github Issues
-- [Markdown](https;//wwww.markdownguide.org/cheat-sheet)
+- [Markdown](https://www.markdownguide.org/cheat-sheet/)
