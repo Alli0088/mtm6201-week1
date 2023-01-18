@@ -46,3 +46,38 @@ table {
     border-collapse: collapse;
     border-spacing: 0;
 }
+
+h1 {
+    padding-left: 10px;
+    font-size: 30px;
+    background-color: darkseagreen;
+    font-weight: bold;
+}
+
+body {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+img { 
+    width: 150px;
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 10px;
+}
+
+.bio {
+    padding-bottom: 50px;
+    padding-top: 15px;
+    font-size: 18.4px;
+  }
+
+  dl {
+    font-size: 18.4px;
+    background-color: darkseagreen;
+  }
+
+  dt {
+    font-weight: bold;
+  }
+
