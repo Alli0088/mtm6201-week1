@@ -67,17 +67,22 @@ img {
 }
 
 .bio {
-    padding-bottom: 50px;
+    padding-bottom: 10px;
     padding-top: 15px;
     font-size: 18.4px;
   }
 
   dl {
+    padding-top: 20px;
     font-size: 18.4px;
     background-color: darkseagreen;
+    padding-bottom: 30px;
+    padding-left: 10px;
   }
 
   dt {
     font-weight: bold;
+    padding-bottom: 5px;
+    padding-top: 10px;
   }
 
